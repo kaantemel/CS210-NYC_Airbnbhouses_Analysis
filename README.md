@@ -1,2 +1,2 @@
-# CS310-Project
-CS-310 Project
+# CS210-Project 
+An analysis of New York City Airbnb houses and price prediction model
